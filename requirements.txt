@@ -1,4 +1,4 @@
 streamlit
-sentence-tranformers
+sentence-transformers
 chromadb
 ollama
